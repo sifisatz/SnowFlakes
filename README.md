@@ -1,5 +1,5 @@
 # SnowFlakes.js
-Pure JavaScript Snowfall &mdash; [Demo](http://kurisubrooks.github.io/snow.js/)
+Pure JavaScript Snowfall &mdash; [Demo](https://sifisatz.github.io/SnowFlakes/)
 
 ### Usage
 ```html
